@@ -68,6 +68,17 @@ button {
 	border-radius: 0;
 }
 
+.nuevo {
+ display: flex;
+justify-content: center;
+ 
+}
+.nuevo button{
+	
+	margin: 1cm;
+	
+}
+
 /* Headings */
 .heading-underline {
 	position: relative;
